@@ -33,6 +33,7 @@ h3
 .top-cloud
 {
     position: relative;  left: 300px;
+    Margin-top: 25px;
 }
 
 .bottom-cloud
@@ -147,7 +148,7 @@ h3
 .team{
   padding-bottom: 30px;
   position: relative;
-  Font-sixe: 20px;
+  Font-size: 20px;
 
 }
 .we-are{
