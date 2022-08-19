@@ -1,0 +1,178 @@
+body
+{ font-family: 'Merriweather', serif;
+
+    margin: 0;  text-align: center;
+}
+
+h1
+{
+  color: #A66CFF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.652rem;
+  text-shadow: 1px 1px 2px black;
+  margin: 50px auto 0 auto;
+}
+
+h2
+{
+    color: #A66CFF;
+    font-weight: bold;
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+h3
+{
+    color: #A66CFF;
+    font-family: 'Montserrat', sans-serif;
+}
+.pro
+{
+    text-decoration: underline;
+}
+
+.top-cloud
+{
+    position: relative;  left: 300px;
+}
+
+.bottom-cloud
+{
+    position: absolute; left: 100px;
+}
+
+.mountain{
+
+
+}
+.h2-space-div {
+
+  margin-top: 50px;
+}
+.h2-space{
+
+  margin: 4px auto 4px auto;
+}
+.top-container
+{ position: relative;
+  bottom: 100px;
+
+  padding-top: 100px;
+
+    background-color: #b1e1ff;
+}
+
+.middle-container{
+}
+
+.bottom-container{
+  background-color: #b1e1ff;
+  position: relative;
+  top: 100px;
+
+  padding-top: 30px;
+  padding-bottom: 30px;
+  word-spacing: 30px;
+}
+
+.joshua{
+  text-align: center;
+  height: auto;
+  padding-top: 20px;
+  width: 50%;
+  height: 50%;
+}
+.description{
+  padding-top: 40px;
+  font-size:15px;
+  width: 40%;
+  position: relative;
+  left:30%;
+}
+.hr-line{
+  border:none;
+
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+
+  width: 5%;
+  margin: 100px auto;
+
+
+}
+.ee{
+  float: left;
+  margin-right: 30px;
+  text-align: center;
+  width:150px;
+}
+
+.camera{
+  float: right;
+  margin-left: 30px;
+  text-align: center;
+  width: 250px;
+}
+.skill-row{
+
+  line-height: 2;
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.skill-paragraphs{
+  margin: 0;
+  position: relative;
+  bottom: 10px;
+}
+.skill-paragraphs-studios{
+  margin: 0;
+  position: relative;
+  bottom: 20px;
+
+}
+.content-0{
+  position: relative;
+  bottom: 60px;
+}
+.content-1{
+  margin: 0;
+  padding-top: 0px;
+  text-align: right;
+  position: relative;
+  bottom: 60px;
+}
+.team{
+  padding-bottom: 30px;
+  position: relative;
+
+}
+.we-are{
+  padding-bottom: 50px;
+  padding-top: 20px;
+  position: relative;
+  bottom:
+}
+.btn{
+color: white;
+text-decoration: none;
+position: relative;
+top: 40px;
+background-color: #b1e1ff;
+padding: 5px;
+text-shadow: 1px 1px 2px black;
+outline-width: medium;
+shape-inside: rectangle(4);
+border: 2px solid #b1e1ff;
+border-radius: 15px 40px 30px;
+
+}
+.footer-link{
+  text-decoration: none;
+  color: #AFB4FF;
+}
+.ending{
+  word-spacing: normal;
+  color: white;
+  font-size: 14px;
+}
