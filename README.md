@@ -1,2 +1,2 @@
-# KLarity
+# Klarity 
 Klarity Co. 
