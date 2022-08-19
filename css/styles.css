@@ -149,6 +149,7 @@ h3
 .team{
   padding-bottom: 30px;
   position: relative;
+  Left: 25%;
   Font-size: 10px;
   Width: 50%;
 
@@ -157,7 +158,8 @@ h3
   padding-bottom: 50px;
   padding-top: 20px;
   position: relative;
-  Width: 25%
+  Width: 40%
+  Left: 30%:
 }
 .btn{
 color: white;
