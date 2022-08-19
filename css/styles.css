@@ -124,11 +124,13 @@ h3
   margin: 0;
   position: relative;
   bottom: 10px;
+  Width: 50%;
 }
 .skill-paragraphs-studios{
   margin: 0;
   position: relative;
   bottom: 20px;
+  Width: 50%;
 
 }
 .content-0{
@@ -145,6 +147,7 @@ h3
 .team{
   padding-bottom: 30px;
   position: relative;
+  Font-sixe: 50%;
 
 }
 .we-are{
