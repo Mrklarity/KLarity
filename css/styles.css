@@ -111,7 +111,7 @@ h3
   float: right;
   margin-left: 30px;
   text-align: center;
-  width: 250px;
+  width: 300px;
 }
 .skill-row{
 
@@ -174,5 +174,5 @@ border-radius: 15px 40px 30px;
 .ending{
   word-spacing: normal;
   color: white;
-  font-size: 14px;
+  font-size: 6px;
 }
